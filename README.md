@@ -6,7 +6,7 @@
 
 ## Backend endpoint
 
-https://react-calendar-backend-ua8h.onrender.com
+https://react-calendar-backend-ua8h.onrender.com/api
 
 ## Table of contents
 
