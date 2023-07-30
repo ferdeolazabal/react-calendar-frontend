@@ -2,6 +2,12 @@
 
 ## Demo
 
+[Calendar PWA](https://calendar-ferdeolazabal.netlify.app/)
+
+## Backend endpoint
+
+https://react-calendar-backend-ua8h.onrender.com
+
 ## Table of contents
 
 - Calendar app with React, Redux, React-big-calendar & SweetAlert2 providing a fast, reactive UI with customizable alerts.
