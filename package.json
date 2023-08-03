@@ -23,10 +23,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && yarn run sw",
+    "build": "react-scripts build && yarn PWA",
     "test": "react-scripts test",
-    "PWA": "workbox injectManifest",
-    "sw": "npx workbox injectManifest workbox-config.js"
+    "PWA": "yarn add workbox injectManifest workbox-config.js"
 
   },
   "eslintConfig": {
@@ -46,10 +45,5 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
-  },
-  "staticFiles": {
-    "include": [
-      "build/sw.js"
-    ]
   }
 }
