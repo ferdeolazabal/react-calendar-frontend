@@ -2,7 +2,7 @@
 
 ## Demo
 
-[Calendar PWA](https://calendar-ferdeolazabal.netlify.app/)
+[Calendar PWA](https://ferdeolazabal-calendar.vercel.app/login)
 
 ## Backend endpoint
 
