@@ -18,13 +18,16 @@
     "react-scripts": "5.0.1",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
-    "sweetalert2": "^11.1.9"  },
+    "sweetalert2": "^11.1.9",
+    "workbox-cli": "^5.0.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build && yarn run sw",
     "test": "react-scripts test",
     "PWA": "workbox injectManifest",
     "sw": "npx workbox injectManifest workbox-config.js"
+
   },
   "eslintConfig": {
     "extends": "react-app"
